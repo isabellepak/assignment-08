@@ -2,7 +2,7 @@
 ### GlobalTech Solutions Customer Management System  
 
 ### Files Included  
-- module8-assignment.py  
+module8-assignment.py  
 
 ### What I Practiced  
 In this assignment, I practiced using Python dictionaries to manage and organize business data. I worked with nested data structures to store customer and project information, performed lookups, and applied aggregation techniques. I also developed functions to analyze data, validate inputs, and generate insights, strengthening my ability to simulate real-world data systems.
